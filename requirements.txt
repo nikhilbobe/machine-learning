@@ -2,3 +2,4 @@ flask
 bson
 bcrypt
 pandas
+Flask-PyMongo
